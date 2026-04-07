@@ -1,0 +1,120 @@
+POST http://localhost:8080/api/membres
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "matricule": "S0001",
+  "nom": "Martin",
+  "prenom": "Sophie",
+  "email": "sophie.martin@gmail.com"
+}
+
+<> 2026-04-06T155215.200.json
+
+###
+
+POST http://localhost:8080/api/membres
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "matricule": "S0001",
+  "nom": "Martin",
+  "prenom": "Sophie",
+  "email": "sophie.martin@gmail.com"
+}
+
+<> 2026-04-06T155153.200.json
+
+###
+
+POST http://localhost:8080/api/membres/login
+Content-Type: application/json
+Content-Length: 26
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "matricule": "G0001"
+}
+
+<> 2026-04-06T155112.200.json
+
+###
+
+POST http://localhost:8080/api/membres
+Content-Type: application/json
+Content-Length: 101
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "matricule": "G0001",
+  "nom": "Dupont",
+  "prenom": "Jean",
+  "email": "jean.dupont@gmail.com"
+}
+
+<> 2026-04-06T155106.500.json
+
+###
+
+GET http://localhost:8080/api/membres/G0001
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2026-04-06T155059.200.json
+
+###
+
+GET http://localhost:8080/api/membres
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2026-04-06T155056.200.json
+
+###
+
+POST http://localhost:8080/api/membres
+Content-Type: application/json
+Content-Length: 101
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "matricule": "G0001",
+  "nom": "Dupont",
+  "prenom": "Jean",
+  "email": "jean.dupont@gmail.com"
+}
+
+<> 2026-04-06T155050.500.json
+
+###
+
+POST http://localhost:8080/api/membres/login
+Content-Type: application/json
+Content-Length: 26
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2026.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "matricule": "G0001"
+}
+
+<> 2026-04-06T153610.200.json
+
+###
+

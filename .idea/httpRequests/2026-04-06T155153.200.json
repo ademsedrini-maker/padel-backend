@@ -1,0 +1,11 @@
+{
+  "id": 6,
+  "matricule": "S0001",
+  "nom": "Martin",
+  "prenom": "Sophie",
+  "email": "sophie.martin@gmail.com",
+  "typeMembre": "SITE",
+  "site": null,
+  "penaliteExpiration": null,
+  "solde": 0
+}

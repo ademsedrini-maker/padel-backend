@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "matricule": "G0001",
+  "nom": "Dupont",
+  "prenom": "Jean",
+  "email": "jean.dupont@mail.com",
+  "typeMembre": "GLOBAL",
+  "site": null,
+  "penaliteExpiration": null,
+  "solde": 0.00
+}
